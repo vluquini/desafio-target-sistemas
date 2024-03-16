@@ -1,0 +1,21 @@
+1 - Primeira visita à sala das lâmpadas:
+Ligar o primeiro interruptor e deixá-lo ligado por alguns minutos.
+Desligar o primeiro interruptor e ligar o segundo interruptor.
+Deixar o segundo interruptor ligado e ir para a próxima etapa.
+
+2 - Segunda visita à sala das lâmpadas:
+Agora, ao entrar na sala, é necessário observar o estado das lâmpadas:
+- Se uma lâmpada estiver acesa, o primeiro interruptor controla essa lâmpada.
+- Se uma lâmpada estiver desligada e estiver fria ao toque, o segundo interruptor controla essa lâmpada.
+- Se uma lâmpada estiver desligada, mas estiver quente ao toque, o terceiro interruptor controla essa lâmpada.
+
+Isso funciona porque:
+
+- No primeiro passo, o primeiro interruptor é ligado para um curto período, o que pode não ser tempo suficiente
+para aquecer a lâmpada, mas tempo suficiente para saber se a lâmpada está acesa.
+- Em seguida, o segundo interruptor é deixado ligado, aquecendo a lâmpada associada a ele.
+- Ao entrar na sala na segunda vez, é possível determinar qual interruptor controla cada lâmpada com base no estado
+e temperatura de cada lâmpada.
+
+Dessa forma, usando apenas duas visitas à sala das lâmpadas, é possível descobrir qual interruptor controla cada
+uma das lâmpadas.

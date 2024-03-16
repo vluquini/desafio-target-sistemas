@@ -1,0 +1,24 @@
+3) Descubra a lógica e complete o próximo elemento:
+
+a) 1, 3, 5, 7, ___ = 9
+R: A lógica aqui é a sequência dos números ímpares, ou simplesmente adicionar 2 ao valor anterior.
+Portanto, o próximo seria 9.
+
+b) 2, 4, 8, 16, 32, 64, ____ = 128
+R: A lógica é que o próximo número é o dobro do anterior. Portanto, o próximo número seria o 128.
+
+c) 0, 1, 4, 9, 16, 25, 36, ____ = 49
+R: Essa sequência parece ser os quadrados dos números naturais começando de 0. Portanto, o próximo
+número seria 7^2 = 49.
+
+d) 4, 16, 36, 64, ____ = 100
+R: Os números avançam em progressão quadrática. Eles são 2^2, 4^2, 6^2, 8^2, etc. Portanto, o próximo n
+úmero seria 10^2 = 100.
+
+e) 1, 1, 2, 3, 5, 8, ____ = 13
+R: Sequência de Fibonacci, onde cada número é a soma dos dois anteriores. Portanto, o  próximo número
+seria 8 + 5 = 13.
+
+f) 2,10, 12, 16, 17, 18, 19, ____ = 200
+R: Aparentemente, a sequência é adicionar números que começam com a letra 'd'. Sendo assim, o próximo
+seria o 200 (duzentos).
